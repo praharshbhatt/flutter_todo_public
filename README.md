@@ -59,7 +59,7 @@
   <img src="Screenshot_5.png" width="200"/>
 
 # Firebase Cloud Firestore Backend
-<img src="Firebase Firestore backend.png" height="540"/>
+<img src="Screenshot_Firebase Firestore backend.png" height="540"/>
 
 
 
