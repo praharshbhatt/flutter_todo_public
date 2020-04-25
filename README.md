@@ -8,6 +8,8 @@
  The Flutter Todo uses Firebase, you have to configure it from your side to test the app.
 </h2>
 
+Get the full code here: https://codecanyon.net/item/flutter-todo-task/26039669
+
 
 <div align="center">
   <a href="https://opensource.org/licenses/MIT">
